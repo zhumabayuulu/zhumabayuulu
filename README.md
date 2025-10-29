@@ -14,7 +14,7 @@
 - 👯 **Хочу сотрудничать по:** `безопасным веб-приложениям, пентест проектам`
 - 🤔 **Нужна помощь с:** `оптимизацией высоконагруженных систем`
 - 💬 **Спрашивайте меня о:** `Python, Django, Cybersecurity, Pentesting`
-- 📫 **Как связаться со мной:** [Telegram](https://t.me/ваш_username) • [Instagram](https://instagram.com/ваш_username)
+- 📫 **Как связаться со мной:** [Telegram](https://t.me/HIalmanbet1) • [Instagram](https://instagram.com/almanbet_z_2)
 - ⚡ **Интересный факт:** Сочетаю разработку backend с поиском уязвимостей в безопасности
 
 ---
@@ -84,10 +84,10 @@
 ### 🤝 Свяжитесь со мной:
 
 <p align="center">
-  <a href="https://t.me/ваш_username" target="_blank">
+  <a href="https://t.me/HIalmanbet1" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
-  <a href="https://instagram.com/ваш_username" target="_blank">
+  <a href="https://instagram.com/almanbet_z_2" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://linkedin.com/in/ваш_username" target="_blank">
