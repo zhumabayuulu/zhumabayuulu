@@ -1,10 +1,10 @@
 <div align="center">
 
-# 👋 Привет! Я Алманбет Жумабай Уулу
+# 👋 Привет! Я Алманбет Жумабай уулу
 
-### 🚀 Python Backend Developer | 🛡️ System Architect | 📱 Full Stack Engineer
+### 🚀 Python Backend Developer | 🛡️ Cybersecurity Specialist | 🔐 Penetration Tester
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=2%2B+Years+of+Backend+Development;Django+%7C+REST+API+%7C+WebSocket+Expert;10%2B+Production+Projects+Delivered;Building+Scalable+%26+Real-time+Systems;Mobile+Backend+Specialist" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=2%2B+Years+of+Backend+Development;Django+%7C+REST+API+%7C+WebSocket+Expert;Cybersecurity+%26+Pentesting+Specialist;10%2B+Production+Projects+Delivered;Red+Team+%7C+OSINT+%7C+Security+Researcher" alt="Typing SVG" />
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=zhumabayuulu&color=00D9FF&style=for-the-badge" alt="Profile views" />
@@ -167,6 +167,16 @@ class AlmanbetZhumabaiUulu:
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
+### 🛡️ Cybersecurity & Pentesting
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white)
+![OSINT](https://img.shields.io/badge/OSINT-00D9FF?style=for-the-badge&logo=search&logoColor=white)
+![Red Team](https://img.shields.io/badge/Red_Team-DC143C?style=for-the-badge&logo=hackthebox&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+
 </div>
 
 ---
@@ -201,8 +211,8 @@ class AlmanbetZhumabaiUulu:
 
 ```
 📦 Компоненты:
-├── 👶 NANNY SKYPARK — Приложение для сотрудников
-├── 👨‍👩‍👧 SKYPARK — Приложение для родителей
+├── 👶 NANNY SKYPARK — Контроль за детьми
+├── 👨‍👩‍👧 SKYPARK — Приложение для сотрудников
 └── 🎛️ CRM SKYPARK — Панель управления
 ```
 
@@ -369,12 +379,22 @@ class AlmanbetZhumabaiUulu:
 
 ```mermaid
 mindmap
-  root((Almanbet<br/>Backend Dev))
+  root((Almanbet<br/>Backend & Security))
     Django Ecosystem
       Django REST Framework
       Django Channels
       Celery Tasks
       Admin Customization
+    Cybersecurity
+      Penetration Testing
+      Red Team Operations
+      OSINT & Reconnaissance
+      Vulnerability Assessment
+    Security Tools
+      Kali Linux
+      Metasploit Framework
+      Burp Suite Pro
+      Nmap & Wireshark
     Real-time Systems
       WebSocket
       Live Updates
@@ -390,9 +410,9 @@ mindmap
       External APIs
       Third-party Services
     Architecture
-      Scalable Systems
+      Secure Systems Design
       Database Design
-      API Design
+      API Security
       Microservices
 ```
 
@@ -406,7 +426,7 @@ mindmap
 <tr>
 <td width="50%" valign="top">
 
-### 🎯 Основные компетенции
+### 🎯 Backend Development
 - ✅ Django & Django REST Framework
 - ✅ WebSocket & Real-time applications
 - ✅ PostgreSQL database design
@@ -419,15 +439,39 @@ mindmap
 </td>
 <td width="50%" valign="top">
 
-### 🚀 Дополнительные навыки
+### 🛡️ Cybersecurity & Pentesting
+- ✅ **Penetration Testing** (Web, Network, API)
+- ✅ **Red Team Operations** & Attack Simulation
+- ✅ **OSINT** & Information Gathering
+- ✅ **Kali Linux** & Security Tools
+- ✅ **Metasploit Framework**
+- ✅ **Burp Suite** Professional
+- ✅ **Nmap, Wireshark** Network Analysis
+- ✅ **OWASP Top 10** Vulnerability Testing
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🚀 Additional Skills
 - ✅ Mobile app backend development
 - ✅ Push notifications (FCM)
 - ✅ Payment gateway integration
 - ✅ Nginx & Gunicorn configuration
 - ✅ Linux server administration
 - ✅ Git version control
-- ✅ API documentation (Swagger)
-- ✅ Unit & integration testing
+
+</td>
+<td width="50%" valign="top">
+
+### 🔒 Security Practices
+- ✅ Secure API development
+- ✅ Vulnerability assessment & reporting
+- ✅ Security auditing
+- ✅ Ethical hacking
+- ✅ Network security analysis
+- ✅ Security documentation (Swagger)
 
 </td>
 </tr>
@@ -509,7 +553,7 @@ mindmap
 
 <br>
 
-**📊 2+ года опыта • 🚀 12+ проектов • 📱 6+ приложений в маркетах**
+**📊 2+ года опыта • 🚀 10+ проектов • 📱 6+ приложений в маркетах**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Let's%20Build%20Something%20Amazing!&fontSize=20&fontAlignY=65&desc=Backend%20Development%20•%20Real-time%20Systems%20•%20Mobile%20APIs&descAlignY=85" width="100%" />
 
