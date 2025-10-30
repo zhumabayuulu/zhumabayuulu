@@ -520,7 +520,7 @@ mindmap
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hialmanbet@gmail.com)
 
-**Email:** almanbet.dev@gmail.com
+**Email:** hialmanbet@gmail.com
 
 </td>
 </tr>
